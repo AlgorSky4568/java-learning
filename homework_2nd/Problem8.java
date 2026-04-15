@@ -19,7 +19,7 @@ public class Problem8 {
         Counter counter2 = new Counter();
         counter1.display();
         counter2.display();
-
+        System.out.println("Hello World!");
     }
 }
 
